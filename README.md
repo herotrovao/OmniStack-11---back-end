@@ -15,6 +15,12 @@ Sistema para ONGS
 - npx knex migrate:make create_ongs (create migrations)
 - npx knex migrate:latest (execute migrations)
 - npx knex (list commands knex)
+- npm install celebrate (validation - integrates validation with express)
+- npm install jest (TDD)
+- npx jest --init (Execute init jest)
+- npm install cross-env (Run scripts that set and use environment variables across platforms)
+- npm install supertest (Test Request)
+- npm test (Execute Test)
 
 
 ## Iniciar -  ReactJS
